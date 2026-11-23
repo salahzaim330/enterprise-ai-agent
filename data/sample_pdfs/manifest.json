@@ -1,0 +1,18 @@
+[
+  {
+    "file": "anssi-guide-hygiene-informatique-fr.pdf",
+    "title": "ANSSI, Guide d'hygiène informatique (FR)",
+    "url": "https://draaf.nouvelle-aquitaine.agriculture.gouv.fr/IMG/pdf/guide_hygiene_informatique_anssi_cle04b262.pdf",
+    "lang": "fr",
+    "optional": false,
+    "sha256": "d53eee680cc1f6f99c4b793c4f812a48be72055d5cccee5bb1af9f3bcce28089"
+  },
+  {
+    "file": "owasp-asvs-4.0.3.pdf",
+    "title": "OWASP Application Security Verification Standard 4.0.3",
+    "url": "https://github.com/OWASP/ASVS/raw/v4.0.3/4.0/OWASP%20Application%20Security%20Verification%20Standard%204.0.3-en.pdf",
+    "lang": "en",
+    "optional": false,
+    "sha256": "31f7755e6564b657454388079aa87b3c62884b7b91e1053eef5dd2a9107419d2"
+  }
+]
